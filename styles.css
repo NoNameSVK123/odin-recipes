@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-color: hsl(0, 0%, 50%);
+}
+.mainTitle{
+    text-align: center;
+    background-color: hsl(209, 35%, 78%);
+    color: hsl(240, 52%, 47%);
+}
+.recipes{
+    font-size: 25px;
+    color: hsl(271, 76%, 53%);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.a{
+    background-color: hsl(219, 46%, 56%);
+    text-decoration: none;
+    color: hsl(90, 100%, 50%);
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+}
